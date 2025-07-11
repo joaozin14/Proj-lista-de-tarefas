@@ -9,3 +9,5 @@ def inserir_tarefa(titulo, descricao=""):
     )
     conn.commit()
     conn.close()
+
+#Criar Lógica de excluir

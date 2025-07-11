@@ -9,4 +9,7 @@ print("""
     |_______________________________________|  
 """)
 
-input("Se deseja adicionar, digite 'A', se deseja remover, digite 'R'? ").lower
+
+input("\nSe deseja adicionar, digite 'A', se deseja remover, digite 'R': ").lower
+
+#Criar lógica que verifica se existe ou tarefa no inicio ou não
